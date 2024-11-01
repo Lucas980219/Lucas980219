@@ -13,7 +13,7 @@ Gosto também de musica, toco 6 tipos de instrumento.
 
 CERTIFICADOS 
 
-<img width="1200" alt="SPRINT 1" src="https://github.com/user-attachments/assets/21624eda-556a-4dd0-8b3e-3845281d6257">   <img width="1200" alt="SPRINT 2" src="https://github.com/user-attachments/assets/806b5efd-8055-428b-a926-ab60c6a9c114">  <img width="1200" alt="SPRINT 3" src="https://github.com/user-attachments/assets/afee94a6-c4f8-423f-b704-1109a2da796f">   <img width="1200" alt="SPRINT 4" src="https://github.com/user-attachments/assets/13c0c15c-0db4-45fe-8e24-112b4d726719"> 
+<img width="250" alt="SPRINT 1" src="https://github.com/user-attachments/assets/21624eda-556a-4dd0-8b3e-3845281d6257">   <img width="250" alt="SPRINT 2" src="https://github.com/user-attachments/assets/806b5efd-8055-428b-a926-ab60c6a9c114">  <img width="250" alt="SPRINT 3" src="https://github.com/user-attachments/assets/afee94a6-c4f8-423f-b704-1109a2da796f">   <img width="250" alt="SPRINT 4" src="https://github.com/user-attachments/assets/13c0c15c-0db4-45fe-8e24-112b4d726719"> 
 
 
 
